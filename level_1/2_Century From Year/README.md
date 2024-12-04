@@ -13,14 +13,15 @@ Given a year, return the century it is in.
 ```
 int centuryFromYear(int y) 
 {
-return y % 100 == 0 ? y / 100 : y / 100 + 1;
+    return y % 100 == 0 ? y / 100 : y / 100 + 1;
 }
 ```
 ### another solution
 ```
 #include<cmath>
+
 float centuryFromYear(float year)   
 {
-return std::ceil(year / 100) ;
+    return std::ceil(year / 100) ;
 }
 ```
