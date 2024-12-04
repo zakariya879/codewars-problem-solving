@@ -9,3 +9,9 @@ float centuryFromYear(float year)
 {
 return std::ceil(year / 100) ;
 }
+
+git add -A
+git commit -m "a"
+git push
+
+git commit -am "test" && git push
