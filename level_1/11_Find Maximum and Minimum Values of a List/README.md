@@ -1,4 +1,4 @@
-# Find Maximum and Minimum Values of a List
+# <8 kyu> Find Maximum and Minimum Values of a List
 
 ## Instructions
 

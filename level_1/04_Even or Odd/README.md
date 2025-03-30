@@ -1,4 +1,4 @@
-# Even or Odd
+# <8 kyu> Even or Odd
 
 ## Instructions
 

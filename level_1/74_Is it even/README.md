@@ -1,4 +1,4 @@
-# Is it even?
+# <8 kyu> Is it even?
 
 ## Instructions
 

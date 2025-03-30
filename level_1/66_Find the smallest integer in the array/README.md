@@ -1,4 +1,4 @@
-# Find the smallest integer in the array
+# <8 kyu> Find the smallest integer in the array
 
 ## Instructions
 

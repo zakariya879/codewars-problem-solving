@@ -1,4 +1,4 @@
-# Sort and Star
+# <8 kyu> Sort and Star
 
 ## Instructions
 

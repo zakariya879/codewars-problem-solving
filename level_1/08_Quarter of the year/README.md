@@ -1,4 +1,4 @@
-# Quarter of the year
+# <8 kyu> Quarter of the year
 
 ## Instructions
 

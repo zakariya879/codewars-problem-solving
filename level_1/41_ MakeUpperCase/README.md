@@ -1,4 +1,4 @@
-# MakeUpperCase
+# <8 kyu> MakeUpperCase
 
 ## Instructions
 

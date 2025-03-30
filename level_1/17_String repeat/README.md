@@ -1,4 +1,4 @@
-# String repeat
+# <8 kyu> String repeat
 
 ## Instructions
 

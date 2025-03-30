@@ -1,4 +1,4 @@
-# Is the string uppercase?
+# <8 kyu> Is the string uppercase?
 
 ## Instructions
 

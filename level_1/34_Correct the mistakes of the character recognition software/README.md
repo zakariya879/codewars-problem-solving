@@ -1,4 +1,4 @@
-# Correct the mistakes of the character recognition software
+# <8 kyu> Correct the mistakes of the character recognition software
 
 ## Instructions
 

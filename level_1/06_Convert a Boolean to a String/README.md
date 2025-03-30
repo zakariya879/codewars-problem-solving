@@ -1,4 +1,4 @@
-# Convert a Boolean to a String
+# <8 kyu> Convert a Boolean to a String
 
 ## Instructions
 

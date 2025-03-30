@@ -1,4 +1,4 @@
-# Basic Mathematical Operations
+# <8 kyu> Basic Mathematical Operations
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Opposites Attract
+# <8 kyu> Opposites Attract
 
 ## Instructions
 

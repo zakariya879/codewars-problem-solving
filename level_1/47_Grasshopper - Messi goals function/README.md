@@ -1,4 +1,4 @@
-# Grasshopper - Messi goals function
+# <8 kyu> Grasshopper - Messi goals function
 
 ## Instructions
 

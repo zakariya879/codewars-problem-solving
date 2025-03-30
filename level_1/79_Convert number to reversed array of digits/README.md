@@ -1,4 +1,4 @@
-# Convert number to reversed array of digits
+# <8 kyu> Convert number to reversed array of digits
 
 ## Instructions
 

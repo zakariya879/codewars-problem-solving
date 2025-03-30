@@ -1,4 +1,4 @@
-# Get Nth Even Number
+# <8 kyu> Get Nth Even Number
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Grasshopper - Check for factor
+# <8 kyu> Grasshopper - Check for factor
 
 ## Instructions
 

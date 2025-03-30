@@ -1,4 +1,4 @@
-# Square(n) Sum
+# <8 kyu> Square(n) Sum
 
 ## Instructions
 

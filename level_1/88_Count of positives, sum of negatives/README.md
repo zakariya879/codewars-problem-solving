@@ -1,4 +1,4 @@
-# Count of positives / sum of negatives
+# <8 kyu> Count of positives / sum of negatives
 
 ## Instructions
 

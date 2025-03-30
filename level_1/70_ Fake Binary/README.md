@@ -1,4 +1,4 @@
-# Fake Binary
+# <8 kyu> Fake Binary
 
 ## Instructions
 

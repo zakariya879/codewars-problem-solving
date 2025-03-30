@@ -1,4 +1,4 @@
-# Sum Arrays
+# <8 kyu> Sum Arrays
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Twice as old
+# <8 kyu> Twice as old
 
 ## Instructions
 

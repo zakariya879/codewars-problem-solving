@@ -1,4 +1,4 @@
-# Reversed Words
+# <8 kyu> Reversed Words
 
 ## Instructions
 

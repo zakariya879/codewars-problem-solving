@@ -1,4 +1,4 @@
-# Calculate average
+# <8 kyu> Calculate average
 
 ## Instructions
 

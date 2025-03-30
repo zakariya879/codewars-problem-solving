@@ -1,4 +1,4 @@
-# Rock Paper Scissors!
+# <8 kyu> Rock Paper Scissors!
 
 ## Instructions
 Let's play! You have to return which player won! In case of a draw return Draw!.

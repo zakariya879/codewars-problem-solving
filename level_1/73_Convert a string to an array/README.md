@@ -1,4 +1,4 @@
-# Convert a string to an array
+# <8 kyu> Convert a string to an array
 
 ## Instructions
 

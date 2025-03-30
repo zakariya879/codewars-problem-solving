@@ -1,4 +1,4 @@
-# Sum without highest and lowest number
+# <8 kyu> Sum without highest and lowest number
 
 ## Instructions
 Output

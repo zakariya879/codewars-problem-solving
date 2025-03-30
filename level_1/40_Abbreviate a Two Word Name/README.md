@@ -1,4 +1,4 @@
-# Abbreviate a Two Word Name
+# <8 kyu> Abbreviate a Two Word Name
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Opposite number
+# <8 kyu> Opposite number
 
 ## Instructions
 

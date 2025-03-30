@@ -1,4 +1,4 @@
-# Is he gonna survive?
+# <8 kyu> Is he gonna survive?
 
 ## Instructions
 

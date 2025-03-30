@@ -1,4 +1,4 @@
-# Powers of 2
+# <8 kyu> Powers of 2
 
 ## Instructions
 

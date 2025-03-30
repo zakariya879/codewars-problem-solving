@@ -1,4 +1,4 @@
-# Invert values
+# <8 kyu> Invert values
 
 ## Instructions
 

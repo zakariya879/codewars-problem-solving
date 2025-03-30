@@ -1,4 +1,4 @@
-# Get the mean of an array
+# <8 kyu> Get the mean of an array
 
 ## Instructions
 

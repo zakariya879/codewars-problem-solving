@@ -1,4 +1,4 @@
-# My head is at the wrong end!
+# <8 kyu> My head is at the wrong end!
 
 ## Instructions
 

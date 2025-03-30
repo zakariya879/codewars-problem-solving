@@ -1,4 +1,4 @@
-# Remove First and Last Character
+# <8 kyu> Remove First and Last Character
 
 ## Instructions
 

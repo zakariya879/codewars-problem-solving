@@ -1,4 +1,4 @@
-# Array plus array
+# <8 kyu> Array plus array
 
 ## Instructions
 

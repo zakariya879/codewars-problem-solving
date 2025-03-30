@@ -1,4 +1,4 @@
-# Count Odd Numbers below n
+# <8 kyu> Count Odd Numbers below n
 
 ## Instructions
 

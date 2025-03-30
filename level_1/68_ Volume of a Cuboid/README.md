@@ -1,4 +1,4 @@
-# Volume of a Cuboid
+# <8 kyu> Volume of a Cuboid
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Do I get a bonus?
+# <8 kyu> Do I get a bonus?
 
 ## Instructions
 

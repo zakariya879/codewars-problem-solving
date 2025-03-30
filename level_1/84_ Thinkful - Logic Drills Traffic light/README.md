@@ -1,4 +1,4 @@
-# Thinkful - Logic Drills: Traffic light
+# <8 kyu> Thinkful - Logic Drills: Traffic light
 
 ## Instructions
 

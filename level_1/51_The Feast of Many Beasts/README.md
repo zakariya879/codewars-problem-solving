@@ -1,4 +1,4 @@
-# The Feast of Many Beasts
+# <8 kyu> The Feast of Many Beasts
 
 ## Instructions
 

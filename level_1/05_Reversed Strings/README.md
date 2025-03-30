@@ -1,4 +1,4 @@
-# Reversed Strings
+# <8 kyu> Reversed Strings
 
 ## Instructions
 

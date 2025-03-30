@@ -1,4 +1,4 @@
-# Grasshopper - Terminal game move function
+# <8 kyu> Grasshopper - Terminal game move function
 
 ## Instructions
 

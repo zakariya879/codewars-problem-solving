@@ -1,4 +1,4 @@
-# Convert a String to a Number!
+# <8 kyu> Convert a String to a Number!
 
 ## Instructions 
 

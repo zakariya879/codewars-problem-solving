@@ -1,4 +1,4 @@
-# Beginner Series #2 Clock
+# <8 kyu> Beginner Series #2 Clock
 
 ## Instructions
 

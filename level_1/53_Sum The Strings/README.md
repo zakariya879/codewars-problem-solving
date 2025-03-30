@@ -1,4 +1,4 @@
-# Sum The Strings
+# <8 kyu> Sum The Strings
 
 ## Instructions
 

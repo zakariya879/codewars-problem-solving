@@ -1,4 +1,4 @@
-# L1: Set Alarm
+# <8 kyu> L1: Set Alarm
 
 ## Instructions
 Output

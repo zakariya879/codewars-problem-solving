@@ -1,4 +1,4 @@
-# Pythagorean Triple
+# <8 kyu> Pythagorean Triple
 
 ## Instructions
 

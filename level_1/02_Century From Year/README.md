@@ -1,4 +1,4 @@
-# Centrury from year
+# <8 kyu> Centrury from year
 
 ## Instructions
 

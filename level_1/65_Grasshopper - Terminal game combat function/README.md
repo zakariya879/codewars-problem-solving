@@ -1,4 +1,4 @@
-# Grasshopper - Terminal game combat function
+# <8 kyu> Grasshopper - Terminal game combat function
 
 ## Instructions
 

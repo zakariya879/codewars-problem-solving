@@ -1,4 +1,4 @@
-# Multiplication table for number
+# <8 kyu> Multiplication table for number
 
 ## Instructions
 

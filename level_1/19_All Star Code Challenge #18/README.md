@@ -1,4 +1,4 @@
-# All Star Code Challenge #18
+# <8 kyu> All Star Code Challenge #18
 
 ## Instructions
 

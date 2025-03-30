@@ -1,4 +1,4 @@
-# Drink about
+# <8 kyu> Drink about
 
 ## Instructions
 

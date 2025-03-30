@@ -1,4 +1,4 @@
-# Multiply
+# <8 kyu> Multiply
 
 ## Instructions
 

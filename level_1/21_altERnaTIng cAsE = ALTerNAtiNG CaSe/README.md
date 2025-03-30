@@ -1,4 +1,4 @@
-# altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+# <8 kyu> altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 
 ## Instructions
 

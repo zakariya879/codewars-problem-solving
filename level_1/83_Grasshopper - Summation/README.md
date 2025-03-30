@@ -1,4 +1,4 @@
-# Grasshopper - Summation
+# <8 kyu> Grasshopper - Summation
 
 ## Instructions
 

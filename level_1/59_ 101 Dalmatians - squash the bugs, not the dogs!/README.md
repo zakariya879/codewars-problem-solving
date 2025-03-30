@@ -1,4 +1,4 @@
-# 101 Dalmatians - squash the bugs, not the dogs!
+# <8 kyu> 101 Dalmatians - squash the bugs, not the dogs!
 
 ## Instructions
 

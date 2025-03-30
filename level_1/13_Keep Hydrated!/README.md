@@ -1,4 +1,4 @@
-# Keep Hydrated!
+# <8 kyu> Keep Hydrated!
 
 ## Instructions
 

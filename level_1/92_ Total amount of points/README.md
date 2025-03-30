@@ -1,4 +1,4 @@
-# Total amount of points
+# <8 kyu> Total amount of points
 
 ## Instructions
 

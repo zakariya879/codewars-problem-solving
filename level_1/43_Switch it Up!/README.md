@@ -1,4 +1,4 @@
-# Switch it Up!
+# <8 kyu> Switch it Up!
 
 ## Instructions
 

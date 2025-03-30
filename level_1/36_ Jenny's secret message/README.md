@@ -1,4 +1,4 @@
-# Jenny's secret message
+# <8 kyu> Jenny's secret message
 
 ## Instructions
 

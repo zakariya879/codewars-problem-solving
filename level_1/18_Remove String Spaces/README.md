@@ -1,4 +1,4 @@
-# Remove String Spaces
+# <8 kyu> Remove String Spaces
 
 ## Instructions
 

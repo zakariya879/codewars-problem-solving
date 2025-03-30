@@ -1,4 +1,4 @@
-# Parse nice int from char problem
+# <8 kyu> Parse nice int from char problem
 
 
 ## Instructions

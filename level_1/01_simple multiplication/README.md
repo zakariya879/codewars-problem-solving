@@ -1,4 +1,4 @@
-# Simple multiplication
+# <8 kyu> Simple multiplication
 
 ## Instructions
 

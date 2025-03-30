@@ -1,4 +1,4 @@
-# Price of Mangoes
+# <8 kyu> Price of Mangoes
 
 ## Instructions
 

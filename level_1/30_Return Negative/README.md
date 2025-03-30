@@ -1,4 +1,4 @@
-# Return Negative
+# <8 kyu> Return Negative
 
 ## Instructions
 

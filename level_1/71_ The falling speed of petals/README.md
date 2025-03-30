@@ -1,4 +1,4 @@
-# The falling speed of petals
+# <8 kyu> The falling speed of petals
 
 ## Instructions
 

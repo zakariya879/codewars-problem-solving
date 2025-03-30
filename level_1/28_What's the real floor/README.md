@@ -1,4 +1,4 @@
-# What's the real floor?
+# <8 kyu> What's the real floor?
 
 ## Instructions
 

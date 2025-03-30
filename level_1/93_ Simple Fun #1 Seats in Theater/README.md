@@ -1,4 +1,4 @@
-# Simple Fun #1: Seats in Theater
+# <8 kyu> Simple Fun #1: Seats in Theater
 
 ## Instructions
 

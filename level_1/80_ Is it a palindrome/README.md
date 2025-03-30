@@ -1,4 +1,4 @@
-# Is it a palindrome?
+# <8 kyu> Is it a palindrome?
 
 ## Instructions
 

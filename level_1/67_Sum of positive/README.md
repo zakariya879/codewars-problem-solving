@@ -1,4 +1,4 @@
-# Sum of positive
+# <8 kyu> Sum of positive
 
 ## Instructions
 Output

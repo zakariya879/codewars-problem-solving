@@ -1,4 +1,4 @@
-# Collatz Conjecture (3n+1)
+# <8 kyu> Collatz Conjecture (3n+1)
 
 ## Instructions
 

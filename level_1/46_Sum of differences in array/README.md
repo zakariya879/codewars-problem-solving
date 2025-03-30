@@ -1,4 +1,4 @@
-# Sum of differences in array
+# <8 kyu> Sum of differences in array
 
 ## Instructions
 

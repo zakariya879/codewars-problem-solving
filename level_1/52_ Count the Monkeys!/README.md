@@ -1,4 +1,4 @@
-# Count the Monkeys!
+# <8 kyu> Count the Monkeys!
 
 ## Instructions
 

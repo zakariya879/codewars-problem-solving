@@ -1,4 +1,4 @@
-# Beginner - Reduce but Grow
+# <8 kyu> Beginner - Reduce but Grow
 
 ## Instructions
 

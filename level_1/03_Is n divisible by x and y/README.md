@@ -1,4 +1,4 @@
-# Is n divisible by x and y?
+# <8 kyu> Is n divisible by x and y?
 
 ## intstructions
 
